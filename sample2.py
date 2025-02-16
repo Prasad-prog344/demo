@@ -9,4 +9,4 @@ class demo:
         b=20
         return b
 obj = demo()
-print(obj.demo1()
+print(obj.demo1())
